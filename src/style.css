@@ -1,1 +1,14 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url("http://2.bp.blogspot.com/-4lFRYF00TjY/Tick1dSRKTI/AAAAAAAACPU/FqzYzllLwVY/s1600/homer_simpson_hd_wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1{
+  background-color: rgb(116, 10, 89);
+}
+
+.btn-position {
+  margin-top: 74%;
+}
